@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Gal-ahad
-- or just simply Gal
-- 📫 How to reach me ... https://x.com/_Ga1ahad
+- 👋 Hi, I’m @Gal-ahad, or just simply Gal
 - 😄 Pronouns: ... He/Him
-- Italian who also speaks fluent English
+-  🗣️Languages: ... Italian/English
 
 <!---
 Gal-ahad/Gal-ahad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
