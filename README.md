@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**Gal-ahad/Gal-ahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Galahad! 👋
 
-Here are some ideas to get you started:
+💻 Otaku, gamer and junior programmer. I got the full nerd package.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently exploring game dev, CLI programs and GUIs.
+
+---
+
+## 🧪 Stuff I mess with
+
+- Languages: Python
+
+- My tools: VSCodium, Git, Vim, Notepad++ 
+
+---
+
+## 📁 Projects
+
+Here are a few things I’ve worked on or am working on:
+
+- [Angela](https://github.com/Gal-ahad/Angela) – A simple, functional discord bot
+- [Lockr](https://github.com/Gal-ahad/Lockr) – A random password generator
+
+---
+
+## 📫 Find me elsewhere
+
+- [Bluesky](https://bsky.app/)  
+- [Mastodon](https://mastodon.social/@Sir_Ga1ahad)
+- Discord: ga1_ahad
+- [Reddit](https://www.reddit.com/user/Storyshifting/)
+
+For emails, please forward them to sebmiller03@proton.me, thank you.
+## 🛠 Skills
+ - Python PCAP certification
+ - Working with Tkinter and GUIs
+ - Game dev with Pygame and Godot
+ - Creating CLIs via the `argparse` library
