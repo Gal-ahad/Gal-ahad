@@ -30,6 +30,7 @@ Here are a few things I’ve worked on or am working on:
 - [Mastodon](https://mastodon.social/@Sir_Ga1ahad)
 - Discord: ga1_ahad
 - [Reddit](https://www.reddit.com/user/Storyshifting/)
+- [Twitter](https://x.com/_Gal_ahad)
 
 For emails, please forward them to sebmiller03@proton.me, thank you.
 ## 🛠 Skills
