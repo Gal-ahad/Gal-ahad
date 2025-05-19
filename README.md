@@ -15,12 +15,11 @@
 
 ---
 
-## 📁 Projects
-
-Here are a few things I’ve worked on or am working on:
-
-- [Angela](https://github.com/Gal-ahad/Angela) – A simple, functional discord bot
-- [Lockr](https://github.com/Gal-ahad/Lockr) – A random password generator
+## 🛠 Skills
+ - Python PCAP certification
+ - Working with Tkinter and GUIs
+ - Game dev with Pygame and Godot
+ - Creating CLIs via the `argparse` library
 
 ---
 
@@ -33,8 +32,3 @@ Here are a few things I’ve worked on or am working on:
 - [Twitter](https://x.com/_Gal_ahad)
 
 For emails, please forward them to sebmiller03@proton.me, thank you.
-## 🛠 Skills
- - Python PCAP certification
- - Working with Tkinter and GUIs
- - Game dev with Pygame and Godot
- - Creating CLIs via the `argparse` library
