@@ -20,12 +20,12 @@
  - Working with Tkinter and GUIs
  - Game dev with Pygame and Godot
  - Creating CLIs via the `argparse` library
-
+ - playing around with LL AI Models
 ---
 
 ## 📫 Find me elsewhere
 
-- [Bluesky](https://bsky.app/)  
+- [Bluesky]([https://bsky.app/](https://bsky.app/profile/gal-ahad.bsky.social))  
 - [Mastodon](https://mastodon.social/@Sir_Ga1ahad)
 - Discord: ga1_ahad
 - [Reddit](https://www.reddit.com/user/Storyshifting/)
