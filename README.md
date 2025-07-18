@@ -31,4 +31,4 @@
 - [Reddit](https://www.reddit.com/user/Storyshifting/)
 - [Twitter](https://x.com/_Gal_ahad)
 
-For emails, please forward them to sebmiller03@proton.me, thank you.
+For emails, please forward them to aethericknight@proton.me, thank you.
